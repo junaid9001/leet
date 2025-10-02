@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/junaid9001/leet/tree/master/1293-three-consecutive-odds) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
