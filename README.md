@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
