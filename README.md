@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
 ## Hash Table
 |  |
