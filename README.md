@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
 ## Hash Table
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
