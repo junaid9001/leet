@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
+| [0476-number-complement](https://github.com/junaid9001/leet/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
