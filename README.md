@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/junaid9001/leet/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
