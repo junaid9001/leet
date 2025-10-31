@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
