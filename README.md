@@ -51,6 +51,7 @@ A collection of LeetCode questions
 | ------- |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 | ------- |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -109,4 +112,12 @@ A collection of LeetCode questions
 | [0620-not-boring-movies](https://github.com/junaid9001/leet/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/junaid9001/leet/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/junaid9001/leet/tree/master/1153-product-sales-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
