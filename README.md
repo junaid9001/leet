@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/junaid9001/leet/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 ## String
@@ -61,6 +63,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
