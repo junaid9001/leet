@@ -78,10 +78,12 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
@@ -115,10 +117,12 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 ## Stack
 |  |
