@@ -164,4 +164,8 @@ A collection of LeetCode questions
 | ------- |
 | [0100-same-tree](https://github.com/junaid9001/leet/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/junaid9001/leet/tree/master/0226-invert-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/junaid9001/leet/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
