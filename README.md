@@ -63,6 +63,7 @@ A collection of LeetCode questions
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
+| [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
