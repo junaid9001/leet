@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/junaid9001/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/junaid9001/leet/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/junaid9001/leet/tree/master/3731-find-missing-elements) |
