@@ -1,4 +1,3 @@
 func findMin(nums []int) int {
-    slices.Sort(nums)
-    return nums[0]
+   return slices.Min(nums)
 }
