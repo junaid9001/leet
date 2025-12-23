@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2469-convert-the-temperature) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/junaid9001/leet/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
