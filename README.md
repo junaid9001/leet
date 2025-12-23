@@ -38,6 +38,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
+| [2469-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2469-convert-the-temperature) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
