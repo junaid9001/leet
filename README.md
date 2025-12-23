@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/junaid9001/leet/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
