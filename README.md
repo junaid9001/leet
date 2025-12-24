@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/junaid9001/leet/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
