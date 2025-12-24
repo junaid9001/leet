@@ -38,6 +38,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2469-convert-the-temperature) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/junaid9001/leet/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
