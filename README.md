@@ -65,6 +65,7 @@ A collection of LeetCode questions
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/junaid9001/leet/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/junaid9001/leet/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
