@@ -1,16 +1,19 @@
 func isAnagram(s string, t string) bool {
-    if len(s) != len(t) { return false }
-    sr:=[]rune(s)
-    br:=[]rune(t)
-    for i:=0;i<len(sr);i++{
-        if !slices.Contains(br,sr[i]){
-            return false
-        }
-        indx:=slices.Index(br,sr[i])
-        
-        br=slices.Delete(br,indx,indx+1)
+        if len(s) != len(t) {
+        return false
+    }
+	count:=make(map[rune]int)
 
+    for _,val:=range s{
+        count[val]++
     }
 
-    return true
+    for _,val:=range t{
+        count[val]--
+        if count[val]<0{
+            return false
+        }
+    }
+
+	return true
 }
