@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [0485-max-consecutive-ones](https://github.com/junaid9001/leet/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/junaid9001/leet/tree/master/1293-three-consecutive-odds) |
 | [1470-shuffle-the-array](https://github.com/junaid9001/leet/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/junaid9001/leet/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -152,6 +157,7 @@ A collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -191,4 +197,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/junaid9001/leet/tree/master/1791-find-center-of-star-graph) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
