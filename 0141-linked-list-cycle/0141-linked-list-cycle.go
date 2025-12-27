@@ -11,14 +11,14 @@ func hasCycle(head *ListNode) bool {
     }
     
     count:=make(map[*ListNode]bool)
-    current:=head
-    for current!=nil{
-        if count[current.Next]{
+    
+    for head!=nil{
+        if count[head.Next]{
             return true
         }else{
-            count[current]=true
+            count[head]=true
         }
-        current=current.Next
+        head=head.Next
 
     }
     return false
