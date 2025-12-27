@@ -1,14 +1,14 @@
 func intersection(nums1 []int, nums2 []int) []int {
     var ans []int
-    set:=make(map[int]int)
+    set:=make(map[int]bool)
     for _,n:=range nums1{
-        set[n]=1
+        set[n]=true
     }
 
     for _,val:=range nums2{
-        if set[val]==1{
+        if set[val]{
             ans=append(ans,val)
-            set[val]=2
+            delete(set,val)
         }
     }
     return ans
