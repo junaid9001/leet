@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/junaid9001/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/junaid9001/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/junaid9001/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/junaid9001/leet/tree/master/0141-linked-list-cycle) |
