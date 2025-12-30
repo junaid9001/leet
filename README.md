@@ -190,6 +190,7 @@ A collection of LeetCode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/junaid9001/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/junaid9001/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/junaid9001/leet/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/junaid9001/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/junaid9001/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/junaid9001/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/junaid9001/leet/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/junaid9001/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/junaid9001/leet/tree/master/0219-contains-duplicate-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/junaid9001/leet/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
