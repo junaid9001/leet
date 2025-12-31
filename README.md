@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/junaid9001/leet/tree/master/3731-find-missing-elements) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/junaid9001/leet/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
