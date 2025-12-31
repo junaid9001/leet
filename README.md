@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/junaid9001/leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaid9001/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaid9001/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
