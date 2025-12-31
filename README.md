@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
 ## Sorting
