@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/junaid9001/leet/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions
 | [2469-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2469-convert-the-temperature) |
 | [2556-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2556-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/junaid9001/leet/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/junaid9001/leet/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaid9001/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
