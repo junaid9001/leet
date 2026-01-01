@@ -184,6 +184,7 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/junaid9001/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/junaid9001/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/junaid9001/leet/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/junaid9001/leet/tree/master/0700-search-in-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/junaid9001/leet/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
