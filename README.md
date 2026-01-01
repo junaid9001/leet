@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/junaid9001/leet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junaid9001/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/junaid9001/leet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/junaid9001/leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/junaid9001/leet/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
