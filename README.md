@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaid9001/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/junaid9001/leet/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/junaid9001/leet/tree/master/2974-minimum-number-game) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/junaid9001/leet/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/junaid9001/leet/tree/master/3232-find-if-digit-game-can-be-won) |
