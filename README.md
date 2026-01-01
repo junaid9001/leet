@@ -104,6 +104,7 @@ A collection of LeetCode questions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaid9001/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2278-percentage-of-letter-in-string](https://github.com/junaid9001/leet/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
