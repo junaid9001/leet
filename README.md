@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | ------- |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
+| [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/junaid9001/leet/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
