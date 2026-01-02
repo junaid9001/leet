@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/junaid9001/leet/tree/master/1293-three-consecutive-odds) |
 | [1470-shuffle-the-array](https://github.com/junaid9001/leet/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/junaid9001/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
