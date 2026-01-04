@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/junaid9001/leet/tree/master/1293-three-consecutive-odds) |
+| [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/junaid9001/leet/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/junaid9001/leet/tree/master/1672-richest-customer-wealth) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions
 | [0066-plus-one](https://github.com/junaid9001/leet/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/junaid9001/leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
