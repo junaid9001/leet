@@ -1,16 +1,16 @@
 func twoSum(nums []int, target int) []int {
-    m:=make(map[int]int)
-    
-    for i,num:=range nums{
-        complement:=target-num
+	m := map[int]int{}
+	var ans []int
 
-        if idx,ok:=m[complement];ok{
-            return []int{idx,i}
-        }
-
-
-        m[num]=i
-    }
-return  nil
-   
+	for key, val := range nums {
+		comp := target - val
+		_, ok := m[comp]
+		if ok {
+			ans = append(ans, []int{key, m[comp]}...)
+			return ans
+		} else {
+			m[val] = key
+		}
+	}
+	return nil
 }
