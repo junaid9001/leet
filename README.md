@@ -93,6 +93,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junaid9001/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/junaid9001/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/junaid9001/leet/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/junaid9001/leet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/junaid9001/leet/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/junaid9001/leet/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/junaid9001/leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/junaid9001/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
