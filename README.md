@@ -79,6 +79,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/junaid9001/leet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/junaid9001/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/junaid9001/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/junaid9001/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/junaid9001/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/junaid9001/leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/junaid9001/leet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/junaid9001/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/junaid9001/leet/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
