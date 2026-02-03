@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/junaid9001/leet/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/junaid9001/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
