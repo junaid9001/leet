@@ -88,6 +88,7 @@ A collection of LeetCode questions
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/junaid9001/leet/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/junaid9001/leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/junaid9001/leet/tree/master/3731-find-missing-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions
 | [0557-reverse-words-in-a-string-iii](https://github.com/junaid9001/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaid9001/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/junaid9001/leet/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/junaid9001/leet/tree/master/3110-score-of-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
