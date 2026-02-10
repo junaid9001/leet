@@ -116,6 +116,7 @@ A collection of LeetCode questions
 | [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/junaid9001/leet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/junaid9001/leet/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/junaid9001/leet/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
