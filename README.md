@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/junaid9001/leet/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/junaid9001/leet/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/junaid9001/leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/junaid9001/leet/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/junaid9001/leet/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/junaid9001/leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/junaid9001/leet/tree/master/2238-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/junaid9001/leet/tree/master/2469-convert-the-temperature) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions
 | [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/junaid9001/leet/tree/master/1603-design-parking-system) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/junaid9001/leet/tree/master/3467-transform-array-by-parity) |
