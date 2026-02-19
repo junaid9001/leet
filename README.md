@@ -89,6 +89,7 @@ A collection of LeetCode questions
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/junaid9001/leet/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/junaid9001/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/junaid9001/leet/tree/master/0796-rotate-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/junaid9001/leet/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/junaid9001/leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/junaid9001/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/junaid9001/leet/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
