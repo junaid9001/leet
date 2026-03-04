@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0414-third-maximum-number](https://github.com/junaid9001/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/junaid9001/leet/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/junaid9001/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/junaid9001/leet/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/junaid9001/leet/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/junaid9001/leet/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions
 | [0094-binary-tree-inorder-traversal](https://github.com/junaid9001/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/junaid9001/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/junaid9001/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/junaid9001/leet/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
