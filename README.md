@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/junaid9001/leet/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/junaid9001/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/junaid9001/leet/tree/master/1293-three-consecutive-odds) |
 | [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/junaid9001/leet/tree/master/1470-shuffle-the-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/junaid9001/leet/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/junaid9001/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/junaid9001/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/junaid9001/leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/junaid9001/leet/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/junaid9001/leet/tree/master/1624-largest-substring-between-two-equal-characters) |
