@@ -60,6 +60,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/junaid9001/leet/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/junaid9001/leet/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/junaid9001/leet/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/junaid9001/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/junaid9001/leet/tree/master/1390-four-divisors) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/junaid9001/leet/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/junaid9001/leet/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/junaid9001/leet/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/junaid9001/leet/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/junaid9001/leet/tree/master/0861-flipping-an-image) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/junaid9001/leet/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/junaid9001/leet/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
