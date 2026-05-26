@@ -311,4 +311,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/junaid9001/leet/tree/master/0496-next-greater-element-i) |
+## Concurrency
+|  |
+| ------- |
+| [1115-print-foobar-alternately](https://github.com/junaid9001/leet/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
