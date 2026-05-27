@@ -314,5 +314,6 @@ A collection of LeetCode questions
 ## Concurrency
 |  |
 | ------- |
+| [1114-print-in-order](https://github.com/junaid9001/leet/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/junaid9001/leet/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
