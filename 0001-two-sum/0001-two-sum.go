@@ -1,15 +1,19 @@
 func twoSum(nums []int, target int) []int {
-	m := map[int]int{}
+    m:=make(map[int]int)
 
-
-	for key, val := range nums {
-		comp := target - val
-		_, ok := m[comp]
-		if ok {
-			return []int{key, m[comp]}
-		} else {
-			m[val] = key
-		}
-	}
-	return nil
+    for i,num:=range nums{
+        
+        val,ok:=m[num]
+        if !ok{ 
+            m[target-num]=i
+            continue
+        }
+        return []int{val,i}
+        
+    }
+    return nil
 }
+//loop over nums
+//check if current val exist as key in map
+//adding- key==next num to find to match and val==keys index 
+//
